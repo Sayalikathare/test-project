@@ -9,4 +9,4 @@
 - [x] Please remove all additional tags from head tag which are not needed for your design ex: fontawesome link.
 - [x] Please make sure redundent styles are not applied to elements, instead pull them up to a common parent element.
 - [x] There is a dangling closing anchor tags after LocationDot SVG tag :
-- [x] add message element in enquiry form for successful submission
+-[x]add message element in enquiry form for successful submission
