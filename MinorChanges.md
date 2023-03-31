@@ -1,0 +1,12 @@
+- [x] Please remove extra anchor tag from the footer
+- [x] PLease copy the pattern attribute for mobile input in the contact form
+- [x] Please match type attribute for each input in the contact form
+- [x] Please check required attribute in contact form inputs only name and phone are required
+- [x] Please give each input in contact form there corresponding name attribute
+- [x] Please wrap Phone, Email and Website values, inside `<td>`s, in an `<a>` tag.
+- [x] Please use `<span>` element for `ShareNodes`
+- [x] Please remove all `class` attributes from all elements, no longer needed.
+- [x] Please remove all additional tags from head tag which are not needed for your design ex: fontawesome link.
+- [x] Please make sure redundent styles are not applied to elements, instead pull them up to a common parent element.
+- [x] There is a dangling closing anchor tags after LocationDot SVG tag :
+- [x] add message element in enquiry form for successful submission
